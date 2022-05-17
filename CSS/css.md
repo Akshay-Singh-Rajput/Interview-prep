@@ -100,7 +100,7 @@ horizontal rows or vertical columns.
 - column: same as row but top to bottom
 - column-reverse: same as row-reverse but bottom to top
 
-[EXAMPLE](https://drive.google.com/uc?id=1q2Py_TnfBn65EptlUBzFzXATEZ0CJrsA)
+![image](https://drive.google.com/uc?id=1q2Py_TnfBn65EptlUBzFzXATEZ0CJrsA)
 
 
 ### flex-wrap
@@ -119,7 +119,7 @@ change that and allow the items to wrap as needed with this property.
 - wrap: flex items will wrap onto multiple lines, from top to bottom.
 - wrap-reverse: flex items will wrap onto multiple lines from bottom to top.
 
-[EXAMPLE](https://drive.google.com/uc?id=1xad8OL4BDq3cMMS5_UgvPKdGyKVPP3Ds)
+![image](https://drive.google.com/uc?id=1xad8OL4BDq3cMMS5_UgvPKdGyKVPP3Ds)
 
 ### flex-flow
 
@@ -164,7 +164,7 @@ unit of space against the container edge, but two units of space between the nex
 
 PS: The safest values are flex-start, flex-end, and center. (as some of the properties never got support from the browser)
 
-[EXAMPLE](https://drive.google.com/uc?id=1m398W6NoMJzG_uB9OAMERbXYxxNfuvkj)
+![image](https://drive.google.com/uc?id=1m398W6NoMJzG_uB9OAMERbXYxxNfuvkj)
 
 ### align-items
 
@@ -183,7 +183,7 @@ The align-items property is used to align the flex items along the cross axis.
 - center: The center value aligns the flex items in the middle of the container
 - baseline: items are aligned such as their baselines align
 
-[EXAMPLE](https://drive.google.com/uc?id=1nk0YAW2WMp1HfqqIj8KEPZPAfg7qSU3X)
+![image](https://drive.google.com/uc?id=1nk0YAW2WMp1HfqqIj8KEPZPAfg7qSU3X)
 
 ### align-content
 
@@ -209,7 +209,7 @@ containers, where flex-wrap is set to either wrap or wrap-reverse).
 - space-evenly: items are evenly distributed with equal space around them
 - stretch: lines stretch to take up the remaining space
 
-[EXAMPLE](https://drive.google.com/uc?id=1XtXeE1Pl27Hv6-sgHCz2X6QKazcnrjob)
+![image](https://drive.google.com/uc?id=1XtXeE1Pl27Hv6-sgHCz2X6QKazcnrjob)
 
 ### gap, row gap, column gap
 
@@ -228,7 +228,7 @@ The gap property explicitly controls the space between flex items. It
 
 ```
 
-[EXAMPLE](https://drive.google.com/uc?id=1uQhMlPcV1fqEYD65d1nBjxFAdh6hNhVU)
+![image](https://drive.google.com/uc?id=1uQhMlPcV1fqEYD65d1nBjxFAdh6hNhVU)
 
 ---
 
@@ -250,7 +250,7 @@ The order property can change the order of the flex items:
 
 will give
 
-[EXAMPLE](https://drive.google.com/uc?id=1BIBY_yYRble8N78cXIJX0pNUMfh0uFa0)
+![image](https://drive.google.com/uc?id=1BIBY_yYRble8N78cXIJX0pNUMfh0uFa0)
 
 ### flex-grow
 
@@ -265,7 +265,7 @@ The flex-grow property specifies how much a flex item will grow relative to the 
 
 ```
 
-[EXAMPLE](https://drive.google.com/uc?id=1zDjsnQpCoQ_1N5Dj7iLr4y5Eqtk8nY3A)
+![image](https://drive.google.com/uc?id=1zDjsnQpCoQ_1N5Dj7iLr4y5Eqtk8nY3A)
 
 ### flex-shrink
 
@@ -289,7 +289,7 @@ The flex-shrink property specifies how much a flex item will shrink relative to 
 
 will give
 
-[EXAMPLE](https://drive.google.com/uc?id=1wzAqvNjzwLFSJ7kal_ZoUcnTXGID_PSC)
+![image](https://drive.google.com/uc?id=1wzAqvNjzwLFSJ7kal_ZoUcnTXGID_PSC)
 
 ### flex-basis
 
@@ -307,7 +307,7 @@ The flex-basis property specifies the initial length of a flex item before the r
 
 will give
 
-[EXAMPLE](https://drive.google.com/uc?id=1o-Ifa6yEA9bk27sv8BNJDHgnvRejes6w)
+![image](https://drive.google.com/uc?id=1o-Ifa6yEA9bk27sv8BNJDHgnvRejes6w)
 
 ### flex
 
@@ -365,7 +365,7 @@ The flex property is a shorthand property for the flex-grow, flex-shrink, and fl
 
 will give the following
 
-[EXAMPLE](https://drive.google.com/uc?id=1e9416Cmit_x4sXzWBZLkFJ4QFrdUd8ji)
+![image](https://drive.google.com/uc?id=1e9416Cmit_x4sXzWBZLkFJ4QFrdUd8ji)
 
 ## 
 
@@ -387,7 +387,7 @@ complex as well as responsive designs with this. It works with both rows and col
 columns).
 - Now take a look at this example;
 
-[EXAMPLE](https://codepen.io/abdul-from-masai/pen/KKZQYgw)
+![image](https://codepen.io/abdul-from-masai/pen/KKZQYgw)
 
 - If you have some complex layout like this wherein you want to layout in different ways basis the screen size; You'd rather use CSS grid over
 flex;
