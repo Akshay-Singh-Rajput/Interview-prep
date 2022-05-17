@@ -709,4 +709,14 @@ div, p { color: #f00; }
 
 ## 18. What are the differences between relative and absolute in CSS?
 
-[Untitled](https://www.notion.so/3790ebb99c3d43e185d6fa28359e4209)
+| Relative      | Absolute |
+| ----------- | ----------- |
+| An element with position: relative; is positioned relative to its normal position.      | An element with position: absolute; is positioned relative to the nearest positioned ancestor. However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.       |
+| Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element.   | Absolute positioned elements are removed from the normal flow, and can overlap elements.   
+|example : https://www.w3schools.com/css/tryit.asp?filename=trycss_position_relative   |  example: https://www.w3schools.com/css/tryit.asp?filename=trycss_position_absolute
+
+
+
+
+
+
