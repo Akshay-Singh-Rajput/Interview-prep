@@ -387,7 +387,7 @@ complex as well as responsive designs with this. It works with both rows and col
 columns).
 - Now take a look at this example;
 
-(https://codepen.io/abdul-from-masai/pen/KKZQYgw)
+Ref: [LINK](https://codepen.io/abdul-from-masai/pen/KKZQYgw)
 
 - If you have some complex layout like this wherein you want to layout in different ways basis the screen size; You'd rather use CSS grid over
 flex;
@@ -715,7 +715,7 @@ div, p { color: #f00; }
 | ----------- | ----------- |
 | An element with position: relative; is positioned relative to its normal position.      | An element with position: absolute; is positioned relative to the nearest positioned ancestor. However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.       |
 | Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element.   | Absolute positioned elements are removed from the normal flow, and can overlap elements.   
-|example : https://www.w3schools.com/css/tryit.asp?filename=trycss_position_relative   |  example: https://www.w3schools.com/css/tryit.asp?filename=trycss_position_absolute
+|[example](https://www.w3schools.com/css/tryit.asp?filename=trycss_position_relative)  |  [example](https://www.w3schools.com/css/tryit.asp?filename=trycss_position_absolute)
 
 
 
