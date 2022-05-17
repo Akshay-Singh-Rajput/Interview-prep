@@ -387,7 +387,7 @@ complex as well as responsive designs with this. It works with both rows and col
 columns).
 - Now take a look at this example;
 
-![image](https://codepen.io/abdul-from-masai/pen/KKZQYgw)
+(https://codepen.io/abdul-from-masai/pen/KKZQYgw)
 
 - If you have some complex layout like this wherein you want to layout in different ways basis the screen size; You'd rather use CSS grid over
 flex;
