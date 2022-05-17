@@ -63,7 +63,7 @@ The translate() method moves an element from its current position
 
 Take a look at this example for a better understanding.
 
-[https://codepen.io/abdul-from-masai/pen/zYpRJaE](https://codepen.io/abdul-from-masai/pen/zYpRJaE)
+[EXAMPLE](https://codepen.io/abdul-from-masai/pen/zYpRJaE)
 
 ## 5. **What properties does the flex model have?**
 
@@ -100,7 +100,8 @@ horizontal rows or vertical columns.
 - column: same as row but top to bottom
 - column-reverse: same as row-reverse but bottom to top
 
-[https://drive.google.com/uc?id=1q2Py_TnfBn65EptlUBzFzXATEZ0CJrsA](https://drive.google.com/uc?id=1q2Py_TnfBn65EptlUBzFzXATEZ0CJrsA)
+[EXAMPLE](https://drive.google.com/uc?id=1q2Py_TnfBn65EptlUBzFzXATEZ0CJrsA)
+
 
 ### flex-wrap
 
@@ -118,7 +119,7 @@ change that and allow the items to wrap as needed with this property.
 - wrap: flex items will wrap onto multiple lines, from top to bottom.
 - wrap-reverse: flex items will wrap onto multiple lines from bottom to top.
 
-[https://drive.google.com/uc?id=1xad8OL4BDq3cMMS5_UgvPKdGyKVPP3Ds](https://drive.google.com/uc?id=1xad8OL4BDq3cMMS5_UgvPKdGyKVPP3Ds)
+[EXAMPLE](https://drive.google.com/uc?id=1xad8OL4BDq3cMMS5_UgvPKdGyKVPP3Ds)
 
 ### flex-flow
 
@@ -163,7 +164,7 @@ unit of space against the container edge, but two units of space between the nex
 
 PS: The safest values are flex-start, flex-end, and center. (as some of the properties never got support from the browser)
 
-[https://drive.google.com/uc?id=1m398W6NoMJzG_uB9OAMERbXYxxNfuvkj](https://drive.google.com/uc?id=1m398W6NoMJzG_uB9OAMERbXYxxNfuvkj)
+[EXAMPLE](https://drive.google.com/uc?id=1m398W6NoMJzG_uB9OAMERbXYxxNfuvkj)
 
 ### align-items
 
@@ -182,7 +183,7 @@ The align-items property is used to align the flex items along the cross axis.
 - center: The center value aligns the flex items in the middle of the container
 - baseline: items are aligned such as their baselines align
 
-[https://drive.google.com/uc?id=1nk0YAW2WMp1HfqqIj8KEPZPAfg7qSU3X](https://drive.google.com/uc?id=1nk0YAW2WMp1HfqqIj8KEPZPAfg7qSU3X)
+[EXAMPLE](https://drive.google.com/uc?id=1nk0YAW2WMp1HfqqIj8KEPZPAfg7qSU3X)
 
 ### align-content
 
@@ -208,7 +209,7 @@ containers, where flex-wrap is set to either wrap or wrap-reverse).
 - space-evenly: items are evenly distributed with equal space around them
 - stretch: lines stretch to take up the remaining space
 
-[https://drive.google.com/uc?id=1XtXeE1Pl27Hv6-sgHCz2X6QKazcnrjob](https://drive.google.com/uc?id=1XtXeE1Pl27Hv6-sgHCz2X6QKazcnrjob)
+[EXAMPLE](https://drive.google.com/uc?id=1XtXeE1Pl27Hv6-sgHCz2X6QKazcnrjob)
 
 ### gap, row gap, column gap
 
@@ -227,7 +228,7 @@ The gap property explicitly controls the space between flex items. It
 
 ```
 
-[https://drive.google.com/uc?id=1uQhMlPcV1fqEYD65d1nBjxFAdh6hNhVU](https://drive.google.com/uc?id=1uQhMlPcV1fqEYD65d1nBjxFAdh6hNhVU)
+[EXAMPLE](https://drive.google.com/uc?id=1uQhMlPcV1fqEYD65d1nBjxFAdh6hNhVU)
 
 ---
 
@@ -249,7 +250,7 @@ The order property can change the order of the flex items:
 
 will give
 
-[https://drive.google.com/uc?id=1BIBY_yYRble8N78cXIJX0pNUMfh0uFa0](https://drive.google.com/uc?id=1BIBY_yYRble8N78cXIJX0pNUMfh0uFa0)
+[EXAMPLE](https://drive.google.com/uc?id=1BIBY_yYRble8N78cXIJX0pNUMfh0uFa0)
 
 ### flex-grow
 
@@ -264,7 +265,7 @@ The flex-grow property specifies how much a flex item will grow relative to the 
 
 ```
 
-[https://drive.google.com/uc?id=1zDjsnQpCoQ_1N5Dj7iLr4y5Eqtk8nY3A](https://drive.google.com/uc?id=1zDjsnQpCoQ_1N5Dj7iLr4y5Eqtk8nY3A)
+[EXAMPLE](https://drive.google.com/uc?id=1zDjsnQpCoQ_1N5Dj7iLr4y5Eqtk8nY3A)
 
 ### flex-shrink
 
@@ -288,7 +289,7 @@ The flex-shrink property specifies how much a flex item will shrink relative to 
 
 will give
 
-[https://drive.google.com/uc?id=1wzAqvNjzwLFSJ7kal_ZoUcnTXGID_PSC](https://drive.google.com/uc?id=1wzAqvNjzwLFSJ7kal_ZoUcnTXGID_PSC)
+[EXAMPLE](https://drive.google.com/uc?id=1wzAqvNjzwLFSJ7kal_ZoUcnTXGID_PSC)
 
 ### flex-basis
 
@@ -306,7 +307,7 @@ The flex-basis property specifies the initial length of a flex item before the r
 
 will give
 
-[https://drive.google.com/uc?id=1o-Ifa6yEA9bk27sv8BNJDHgnvRejes6w](https://drive.google.com/uc?id=1o-Ifa6yEA9bk27sv8BNJDHgnvRejes6w)
+[EXAMPLE](https://drive.google.com/uc?id=1o-Ifa6yEA9bk27sv8BNJDHgnvRejes6w)
 
 ### flex
 
@@ -364,7 +365,7 @@ The flex property is a shorthand property for the flex-grow, flex-shrink, and fl
 
 will give the following
 
-[https://drive.google.com/uc?id=1e9416Cmit_x4sXzWBZLkFJ4QFrdUd8ji](https://drive.google.com/uc?id=1e9416Cmit_x4sXzWBZLkFJ4QFrdUd8ji)
+[EXAMPLE](https://drive.google.com/uc?id=1e9416Cmit_x4sXzWBZLkFJ4QFrdUd8ji)
 
 ## 
 
@@ -386,7 +387,7 @@ complex as well as responsive designs with this. It works with both rows and col
 columns).
 - Now take a look at this example;
 
-[https://codepen.io/abdul-from-masai/pen/KKZQYgw](https://codepen.io/abdul-from-masai/pen/KKZQYgw)
+[EXAMPLE](https://codepen.io/abdul-from-masai/pen/KKZQYgw)
 
 - If you have some complex layout like this wherein you want to layout in different ways basis the screen size; You'd rather use CSS grid over
 flex;
@@ -443,7 +444,7 @@ color: violet;
 
 ```
 
-Ref: [https://codepen.io/nrupuld/pen/zVweGK](https://codepen.io/nrupuld/pen/zVweGK)
+Ref: [LINK](https://codepen.io/nrupuld/pen/zVweGK)
 
 ### Multiple Selectors, Same Properties (,)
 
@@ -463,7 +464,7 @@ div, p {
 
 ```
 
-Ref : [https://codepen.io/nrupuld/pen/xopQEZ](https://codepen.io/nrupuld/pen/xopQEZ)
+Ref : [LINK](https://codepen.io/nrupuld/pen/xopQEZ)
 
 ### Adjacent Sibling Selector (+)
 
@@ -476,7 +477,7 @@ former_element + target_element { style properties }
 
 ```
 
-Ref: [https://codepen.io/nrupuld/pen/XLVyzm](https://codepen.io/nrupuld/pen/XLVyzm)
+Ref: [LINK](https://codepen.io/nrupuld/pen/XLVyzm)
 
 ### General Sibling Selector (~)
 
@@ -489,7 +490,7 @@ former_element ~ target_element { style properties }
 
 ```
 
-Ref: [https://codepen.io/nrupuld/pen/pXpQLM](https://codepen.io/nrupuld/pen/pXpQLM)
+Ref: [LINK](https://codepen.io/nrupuld/pen/pXpQLM)
 
 ### Child Combinator (>)
 
@@ -502,7 +503,7 @@ selector1 > selector2 { style properties }
 
 ```
 
-Ref : [https://codepen.io/nrupuld/pen/rEpQRL](https://codepen.io/nrupuld/pen/rEpQRL)
+Ref : [LINK](https://codepen.io/nrupuld/pen/rEpQRL)
 
 ### Descendant Combinator ( )
 
@@ -516,7 +517,7 @@ selector1 selector2 { style properties }
 
 ```
 
-Ref: [https://codepen.io/nrupuld/pen/Oezaed](https://codepen.io/nrupuld/pen/Oezaed)
+Ref: [LINK](https://codepen.io/nrupuld/pen/Oezaed)
 
 ## 9. What does object-fit do?
 
@@ -528,7 +529,8 @@ as much space as possible".
 
 You can read more about it here.
 
-[https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)[https://www.w3schools.com/css/css3_object-fit.asp](https://www.w3schools.com/css/css3_object-fit.asp)
+-[Ref.](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+-[Ref.](https://www.w3schools.com/css/css3_object-fit.asp)
 
 ## 10. What does rotate do?
 
@@ -542,7 +544,7 @@ rotate(angle) // Defines a 2D rotation, the angle is specified in the parameter
 ```
 
 - You can give it a try here: Defines a 2D rotation, the angle is specified in the parameter
-- For More Info Ref: [https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate)
+- For More Info Ref: [LINK](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate)
 
 ## 11. What rule can be used to define animations
 
@@ -563,7 +565,7 @@ Syntax :
 Take a look at the following example.
 
 For More info :
-[https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+[LINK 1](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)[LINK 2](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
 ## 12. When working with attribute selectors, how can you select elements which contain a particular attribute value?
 
