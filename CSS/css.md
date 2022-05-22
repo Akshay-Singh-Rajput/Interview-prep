@@ -1,11 +1,11 @@
 # CSS
 
-## 1. **How to add comments on CSS?**
+## **How to add comments on CSS?**
 
 To comment in CSS, place your plain text inside `\* */`
  marks. This tells the browser that they are notes and should not be rendered on the front end.
 
-## 2. **Why do we use pseudo-class?**
+## **Why do we use pseudo-class?**
 
 CSS pseudo-classes are used to add special effects to some selectors.
 
@@ -23,7 +23,7 @@ div:hover {
 }
 ```
 
-## 3. **How is specificity applied?**
+## **How is specificity applied?**
 
 If there are two or more CSS rules that point to the same element, 
 the selector with the highest specificity value will "win", and its 
@@ -56,7 +56,7 @@ Note: Universal selector (*), combinators (+, >, ~, ' ') and negation pseudo-cla
 
 ```
 
-## 4. **What method allows an element to be moved from its current position?**
+## **What method allows an element to be moved from its current position?**
 
 The translate() method moves an element from its current position 
 (according to the parameters given for the X-axis and the Y-axis).
@@ -65,7 +65,7 @@ Take a look at this example for a better understanding.
 
 [EXAMPLE](https://codepen.io/abdul-from-masai/pen/zYpRJaE)
 
-## 5. **What properties does the flex model have?**
+## **What properties does the flex model have?**
 
 ### Properties for the parent (flex-container):
 
@@ -369,7 +369,7 @@ will give the following
 
 ## 
 
-## 6. **What is the difference between flex and grids?**
+## **What is the difference between flex and grids?**
 
 - Grid is made for a two-dimensional layout while Flexbox is for one.
 This means Flexbox can work on either row or columns at a time, but
@@ -380,7 +380,7 @@ build complex as well as responsive designs with this. This is why it is
 called ‘layout first’. Flexbox mostly helps align content & move
 blocks.
 
-## 7. Give an example where you cannot use flexbox, and you can only use grids?
+## Give an example where you cannot use flexbox, and you can only use grids?
 
 - Grid is usually used to make a more complex layout. You can build
 complex as well as responsive designs with this. It works with both rows and columns. Flexbox works better in one dimension only (either rows OR
@@ -519,7 +519,7 @@ selector1 selector2 { style properties }
 
 Ref: [LINK](https://codepen.io/nrupuld/pen/Oezaed)
 
-## 9. What does object-fit do?
+##  What does object-fit do?
 
 The CSS object-fit property is used to specify how an `<img>` or `<video>` should be resized to fit its container.
 
@@ -532,7 +532,7 @@ You can read more about it here.
 -[Ref.](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
 -[Ref.](https://www.w3schools.com/css/css3_object-fit.asp)
 
-## 10. What does rotate do?
+##  What does rotate do?
 
 The transform property applies a 2D or 3D transformation to an 
 element. This property allows you to rotate, scale, move, skew, etc., 
@@ -546,7 +546,7 @@ rotate(angle) // Defines a 2D rotation, the angle is specified in the parameter
 - You can give it a try here: Defines a 2D rotation, the angle is specified in the parameter
 - For More Info Ref: [LINK](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate)
 
-## 11. What rule can be used to define animations
+##  What rule can be used to define animations
 
 - The @keyframes rule specifies the animation code.
 - The animation is created by gradually changing from one set of CSS styles to another.
@@ -567,14 +567,14 @@ Take a look at the following example.
 For More info :
 [LINK 1](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)[LINK 2](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
-## 12. When working with attribute selectors, how can you select elements which contain a particular attribute value?
+##  When working with attribute selectors, how can you select elements which contain a particular attribute value?
 
 ```
 a[href*="en-US"] // selects an `a` tag which a particular href attribute value that has been asked
 
 ```
 
-## 13. What does @media do?
+##  What does @media do?
 
 - The @media rule is used in media queries to apply different styles for different media types/devices.
 - Media queries can be used to check many things, such as:
@@ -613,7 +613,7 @@ body {
 
 ```
 
-## 14. What can be used to override properties of an element
+##  What can be used to override properties of an element
 
 - To override the CSS properties of a class using another class, we can use the`! important` directive. In CSS, `!important` means “this is important”, and the `property: value` pair that has this directive is always applied even if the other element has higher specificity.
 
@@ -649,7 +649,7 @@ css :
 
 ```
 
-## 15. How can you select every alternate element in a list of elements using CSS?
+##  How can you select every alternate element in a list of elements using CSS?
 
 Syntax :
 
@@ -687,7 +687,7 @@ li:nth-of-type(even){
 
 ```
 
-## 16. What is the ranking of selectors with respect to specificity
+##  What is the ranking of selectors with respect to specificity
 
 Ranking from Low To High
 
@@ -698,7 +698,7 @@ Ranking from Low To High
 - id selector
 - inline styling
 
-## 17. How can we apply the same styles to multiple selectors?
+##  How can we apply the same styles to multiple selectors?
 
 - To group CSS selectors in a style sheet, use commas to separate
 multiple grouped selectors in the style. In this example, the style
@@ -709,7 +709,7 @@ div, p { color: #f00; }
 
 ```
 
-## 18. What are the differences between relative and absolute in CSS?
+##  What are the differences between relative and absolute in CSS?
 
 | Relative      | Absolute |
 | ----------- | ----------- |
