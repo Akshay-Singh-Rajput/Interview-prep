@@ -7,7 +7,9 @@ When you look at the code examples below, I recommend looking at O(1), then O(n)
 You can think of O(1), O(n), O(logn), etc as classes or categories of growth. Some categories will take more time to do than others. These categories help give us a way of ordering the algorithm performance. Some grown faster as the input n grows. The following table demonstrates said growth numerically. In the table below think of log(n) as the ceiling of log_2.
 
 enter image description here
+
 ![image](https://i.stack.imgur.com/4yiP0.jpg)
+
 ## Simple Code Examples Of Various Big O Categories:
 
 ## O(1) - Constant Time Examples:
