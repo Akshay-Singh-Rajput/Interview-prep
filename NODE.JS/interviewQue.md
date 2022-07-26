@@ -49,10 +49,10 @@ Node.js is used in a variety of domains. But, it is very well regarded in the de
 </details>
 
 <details>
-    <summary></summary>
+    <summary>What is Node.js single-threaded?</summary>
     
- - 
- - 
+ - Node.js works on the single-threaded model to ensure that there is support for asynchronous processing.
+ - With this, it makes it scalable and efficient for applications to provide high performance and efficiency under high amounts of load.
 </details>
 
 <details>
