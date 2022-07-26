@@ -36,10 +36,16 @@ Node.js is used in a variety of domains. But, it is very well regarded in the de
 </details>
 
 <details>
-    <summary></summary>
+    <summary>What is the difference between Node.js And Angular?</summary>
     
- - 
- - 
+| Node.js | Angular |
+| -------- | -------- |
+| Used in situation where scalability is a requirement | Best fit for the development of real-time applications |
+| Ability to generate queries in a database | Ability to simplfy an application init the MVC architecture |
+| Mainly used to develop small/medium-sized application | Mainly used to develop real-time interactive web application |
+| Provides many frameworks such as Sails, Partial, and Express | Angular is an all-in-one web app framework |
+| Coded using C++ and Javascript | coded in TypeScript |
+ 
 </details>
 
 <details>
