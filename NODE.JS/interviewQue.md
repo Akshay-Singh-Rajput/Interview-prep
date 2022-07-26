@@ -8,16 +8,138 @@
 </details>
 
 <details>
-    <summary>Toggle Switch</summary>
-    Foldable Content[enter image description here][1]
+    <summary>What is the difference between a Node.js and Javascript</summary>
+    
+| Factor    | Node.js | Javascript |
+| -------- | -------- | ------ |
+| Engine  | V8 - Google Chrome     | V8, Spider Monkey and JS Core  |
+| Usage | To perform non-blocking activities    | For general client-side operation  |
+| Working    | Interpreter-scripting    | Programming language  |
+
 </details>
 
 <details>
-    <summary>Toggle Switch</summary>
-    Foldable Content[enter image description here][1]
+    <summary></summary>
+    
+ - 
+ - 
 </details>
 
 <details>
-    <summary>Toggle Switch</summary>
-    Foldable Content[enter image description here][1]
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
+</details>
+
+<details>
+    <summary></summary>
+    
+ - 
+ - 
 </details>
