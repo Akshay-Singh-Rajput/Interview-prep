@@ -19,17 +19,20 @@
 </details>
 
 <details>
-    <summary>Can you brifly explain the working of Node.js</summary>
+    <summary>Can you briefly explain the working of Node.js? </summary>
     
  - Node.js is an entity that runs in a virtual environment, using Javascript as the primary scripting language.
  - Is uses a simple V8 environment to run on, which helps in the provision of features like the non-blocking I/O and a single-threaded event loop.
 </details>
 
 <details>
-    <summary></summary>
+    <summary>Where is Node.js is used?</summary>
     
- - 
- - 
+Node.js is used in a variety of domains. But, it is very well regarded in the design of the following concepts:
+ - Network application
+ - Distributed computing
+ - Responsive web apps 
+ - Servers-client applications
 </details>
 
 <details>
