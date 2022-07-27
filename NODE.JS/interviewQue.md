@@ -64,7 +64,7 @@ Node.js is used in a variety of domains. But, it is very well regarded in the de
 </details>
 
 <details>
-    <summary>**What is the difference between synchronous and asynchronus functions?**</summary>
+    <summary>What is the difference between synchronous and asynchronus functions?</summary>
   
 **Synchronous APIs**
  - Synchronous APIs are mainly used for I/O operations.
