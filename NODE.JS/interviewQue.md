@@ -56,17 +56,24 @@ Node.js is used in a variety of domains. But, it is very well regarded in the de
 </details>
 
 <details>
-    <summary></summary>
-    
- - 
- - 
+    <summary>What are the different API functions supported by Node.js?</summary>
+
+  There are two types of API functions:-  
+ - **Synchronous APIs** : Used for non-blocking functions
+ - **Asynchronous APIs** : Used for blocking functions
 </details>
 
 <details>
-    <summary></summary>
+    <summary>What is the difference between synchronous and asynchronus functions?</summary>
     
- - 
- - 
+    **Synchronous APIs**
+ - Synchronous APIs are mainly used for I/O operations.
+ - They are intantaneous in providing a respone to the data movement in the server and keep up with the data as per the requirement.
+ - If there are no responses, then the API will throw an error.
+    
+    **Asynchronous APIs**
+ - Asynchronous functions, as the name suggests, work on the basis of not being synchronous.
+ - Here, HTTP requests, when pushed will not wait for a response to begin. Responses to any previous requests will be continuous even if the server has already got the response.
 </details>
 
 <details>
